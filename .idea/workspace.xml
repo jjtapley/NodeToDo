@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8d56ebe-f2dd-42ed-b601-b40a31f3d14f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l19ksioesuMjHPtKczbVpjcRBz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.7" />
+    <property name="last_opened_file_path" value="/private/var/folders/tt/b5s7dsn17vqfbkw_qgv84t7m0000gp/T/0a55b5c5-5881-4d14-b785-5a2b5f15b83a/collection" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="/private/var/folders/tt/b5s7dsn17vqfbkw_qgv84t7m0000gp/T/0a55b5c5-5881-4d14-b785-5a2b5f15b83a/collection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8d56ebe-f2dd-42ed-b601-b40a31f3d14f" name="Default Changelist" comment="" />
+      <created>1606753878939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606753878939</updated>
+      <workItem from="1606753880617" duration="19096000" />
+      <workItem from="1606901913912" duration="11174000" />
+      <workItem from="1607003283795" duration="10746000" />
+      <workItem from="1607701519165" duration="2571000" />
+      <workItem from="1608454930633" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2259" y="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606818769537">
+      <screen x="1440" y="-100" width="1920" height="1177" />
+    </state>
+    <state x="2259" y="390" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801/1440.-100.1920.1177@1440.-100.1920.1177" timestamp="1606818769537" />
+    <state x="1958" y="537" width="540" height="540" key="StructurePopup" timestamp="1606831806913">
+      <screen x="1440" y="-100" width="1920" height="1177" />
+    </state>
+    <state x="1958" y="537" width="540" height="540" key="StructurePopup/0.23.1440.806/1440.-100.1920.1177@1440.-100.1920.1177" timestamp="1606831806913" />
+    <state x="2011" y="401" width="670" height="676" key="search.everywhere.popup" timestamp="1606831041748">
+      <screen x="1440" y="-100" width="1920" height="1177" />
+    </state>
+    <state x="2011" y="401" width="670" height="676" key="search.everywhere.popup/0.23.1440.798/1440.-100.1920.1177@1440.-100.1920.1177" timestamp="1606821952442" />
+    <state x="2011" y="401" width="670" height="676" key="search.everywhere.popup/0.23.1440.808/1440.-100.1920.1177@1440.-100.1920.1177" timestamp="1606831041748" />
+  </component>
+</project>
